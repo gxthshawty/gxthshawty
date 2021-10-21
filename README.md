@@ -18,7 +18,7 @@
 
 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://github.com/Dean1337/Dean1337/blob/main/city.gif" />
+<img align="right" alt="GIF" height="400" width="800" src="https://github.com/gxthshawty/gxthshawty/blob/main/anime-aesthetic%20(1).gif" />
 <br>
 <p align="center"> Everybody lies, no exeptions.
 </p>
