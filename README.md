@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="250" width="250"  src="https://github.com/gxthshawty/gxthshawty/blob/main/tumblr_80c1a8796e2f9f853d40a003a2ae0c08_2102b41d_500.gif" />
 
-<p align="center">Hello, my name is Jhenny, I'm 17 years old and I'm currently living in São Paulo, Brazil. I'm a programming student</p>
+<p align="center">Hello, my name is Jhenny, I'm 17 years old and I'm currently living in Bauru, São Paulo - Brazil. I'm a programming student</p>
 
 #                                                                    *Languages and tools*
 
