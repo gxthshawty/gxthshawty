@@ -8,6 +8,9 @@
 
 ### Languages
   Studying: <code>JavaScript</code>
+ <code>C++</code>
+ <code>Rubi</code>
+ <code>python</code>
   <li><strong>I like</strong> <code>league of legends</code>
 
 
